@@ -3,9 +3,9 @@ import './App.css';
 
 class App extends Component {
   render() {
-    var user = {
+    const user = {
       'firstname': 'Kirill',
-      'lastname': 'Kim'
+      'lastname': 'Kimson'
     }
     return (
       <div className="App">
